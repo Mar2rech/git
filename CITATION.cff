@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "FAMILY NAMES"
   given-names: "GIVEN NAMES"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://github.com/Mar2rech"
 - family-names: "FAMILY NAMES aut2"
   given-names: "GIVEN NAMES aut2"
   orcid: "https://orcid.org/0000-0000-0000-0000"
