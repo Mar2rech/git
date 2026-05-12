@@ -339,3 +339,5 @@ Es la forma más fiable porque Git interpreta perfectamente las fechas relativas
 Git es sorprendentemente flexible con estas expresiones.
 
 Si en algún momento quieres ver también los archivos modificados o el diff exacto de ese rango, puedo ayudarte a montarlo sin complicaciones.
+
+> BY COPILOT
